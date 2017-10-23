@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.3.0] - 2017-10-23
+- Added Warning support for Webpack build process
+
 ## [0.3.0] - 2017-10-02
 - Updated Stylelint peerDependency to >= 7.8
 - Updated Webpack peerDependency to >= 2
